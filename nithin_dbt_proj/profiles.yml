@@ -1,0 +1,11 @@
+nithin_dbt_proj:
+  outputs:
+    dev:
+      catalog: dbt_tutorial_dev
+      host: dbc-43308d53-5383.cloud.databricks.com
+      http_path: /sql/1.0/warehouses/039c08982827255a
+      schema: default
+      threads: 1
+      token: dapi053c84983f663877866c537b05f287f6
+      type: databricks
+  target: dev
