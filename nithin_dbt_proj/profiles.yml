@@ -3,7 +3,7 @@ nithin_dbt_proj:
     dev:
       catalog: dbt_tutorial_dev
       host: 
-      http_path: /sql/1.0/warehouses/039c08982827255a
+      http_path: 
       schema: default
       threads: 1
       token: 
@@ -11,7 +11,7 @@ nithin_dbt_proj:
     prod:
       catalog: dbt_tutorial_prod
       host: 
-      http_path: /sql/1.0/warehouses/039c08982827255a
+      http_path: 
       schema: default
       threads: 1
       token: 
